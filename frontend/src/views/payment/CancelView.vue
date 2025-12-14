@@ -16,7 +16,7 @@ import { RouterLink } from "vue-router";
                     <div class="success-inner my-5">
                         <h1><i class="fa fa-times-circle" aria-hidden="true"></i><span>Payment Canceled!</span>
                         </h1>
-                        <p>please try again...</p>
+                        <p>Please try again...</p>
 
                         <RouterLink style="text-decoration: none; color: inherit" :to="{ name: 'checkout' }"><a
                                 class="btn btn-primary btn-lg">Go Checkout</a>
@@ -51,7 +51,7 @@ import { RouterLink } from "vue-router";
 .mail-seccess .success-inner h1 span {
     display: block;
     font-size: 25px;
-    color: #333;
+    color: #336;
     font-weight: 600;
     text-shadow: none;
     margin-top: 20px;
