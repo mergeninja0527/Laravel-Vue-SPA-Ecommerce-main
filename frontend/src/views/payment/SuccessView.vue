@@ -16,7 +16,7 @@ import { RouterLink } from "vue-router";
     				<div class="success-inner my-5" >
     					<h1><i class="fa fa-check-circle" aria-hidden="true"></i><span>Payment Successful!</span></h1>
                         <small>You'll receive a confirmation email shortly.</small>
-    					<p>Thanks for your order!</p>
+    					<p>Thank you for your order!</p>
 
 
                         <RouterLink style="text-decoration: none; color: inherit"
